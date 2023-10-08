@@ -1,2 +1,0 @@
-# TestNG
-TestNG testcase

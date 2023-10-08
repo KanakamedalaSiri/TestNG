@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="winphone10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/resources/customlibs/lib/winphone10/BinaryDataManager.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resources/customlibs/lib/winphone10/konyLogger.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

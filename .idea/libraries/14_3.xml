@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="14.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nativebindings/iOS/14.3/Kony_SyncV2-iOS-14.3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/nativebindings/iOS/14.3/Kony_SDKCommons-iOS-14.3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/nativebindings/iOS/14.3/Kony_FileStorage-iOS-14.3.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

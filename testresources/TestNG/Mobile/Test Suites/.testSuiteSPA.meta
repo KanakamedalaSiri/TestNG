@@ -1,0 +1,17 @@
+{
+    "groupName": "Test Suites",
+    "testSuiteName": "testSuiteSPA",
+    "testCaseInfo": [
+        {
+            "testcaseName": "testCaseLoadLocalStoreAPI.js",
+            "appName": "storeDSLocalAPI",
+            "selectedDataset": null
+        }
+    ],
+    "usedBy": {
+        "storeDSLocalAPI": [
+            "testPlanSPA.js"
+        ]
+    },
+    "appName": "storeDSLocalAPI"
+}
